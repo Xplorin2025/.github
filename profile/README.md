@@ -1,6 +1,11 @@
 # 🌏 XPLORIN – Explore Indonesia
 
 <p align="center">
+  <img src="../assets/Logocomponent.png" width="800" />
+</p>
+
+
+<p align="center">
   <b>Capstone Project Kampus Merdeka Mandiri Batch 9 – 2025</b><br>
   <i>Infinite Learning Indonesia</i>
 </p>
@@ -90,35 +95,49 @@ Beberapa halaman utama dalam aplikasi Xplorin:
 
 ### 🔍 Explore
 <p align="center">
-  <img src="../../assets/explore.PNG" width="800" />
+  <img src="../assets/explore.PNG" width="800" />
 </p>
 
 ---
 
 ### ℹ️ About Us
 <p align="center">
-  <img src="../../assets/aboutus.PNG" width="800" />
+  <img src="../assets/aboutus.PNG" width="800" />
 </p>
 
 ---
 
 ### 🤖 AI Chatbot (Ciko)
 <p align="center">
-  <img src="../../assets/chatbot.PNG" width="800" />
+  <img src="../assets/chatbot.PNG" width="800" />
 </p>
 
 ---
 
 ### 📸 Food Detection
 <p align="center">
-  <img src="../../assets/fooddetection.jpeg" width="800" />
+  <img src="../assets/fooddetection.jpeg" width="800" />
 </p>
 
 ---
 
 ### 🍜 Food Recommendation
 <p align="center">
-  <img src="../../assets/pempek.PNG" width="800" />
+  <img src="../assets/pempek.PNG" width="800" />
+</p>
+
+---
+
+### 👤 Profile
+<p align="center">
+  <img src="../assets/profile.PNG" width="800" />
+</p>
+
+---
+
+📝 Register
+<p align="center">
+  <img src="../assets/register.PNG" width="800" />
 </p>
 
 ---
