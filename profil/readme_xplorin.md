@@ -81,12 +81,35 @@ Asisten interaktif berbasis AI yang dapat:
 
 Beberapa halaman utama dalam aplikasi Xplorin:
 
-* 🏠 **Home**
-* 🔍 **Explore**
-* ℹ️ **About Us**
-* 🤖 **AI Chatbot (Ciko)**
-* 📸 **Food Detection**
-* 🍜 **Restaurant Recommendation**
+## 🖥️ Cuplikan Aplikasi
+
+### 🏠 Home
+![Home Page](assets/HomePage(2x).png)
+
+---
+
+### 🔍 Explore
+![Explore Page](assets/explore.PNG)
+
+---
+
+### ℹ️ About Us
+![About Us](assets/aboutus.PNG)
+
+---
+
+### 🤖 AI Chatbot (Ciko)
+![Chatbot](assets/chatbot.PNG)
+
+---
+
+### 📸 Food Detection
+![Food Detection](assets/foodgallery.PNG)
+
+---
+
+### 🍜 Food Recommendation
+![Restaurant Recommendation](assets/pempek.PNG)
 
 ---
 
