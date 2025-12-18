@@ -81,10 +81,6 @@ Asisten interaktif berbasis AI yang dapat:
 
 Beberapa halaman utama dalam aplikasi Xplorin:
 
-## 🖥️ Cuplikan Aplikasi
-
-## 🖥️ Cuplikan Aplikasi
-
 ### 🏠 Home
 <p align="center">
   <img src="../../assets/HomePage(2x).png" width="800" />
