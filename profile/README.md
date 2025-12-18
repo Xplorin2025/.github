@@ -83,7 +83,7 @@ Beberapa halaman utama dalam aplikasi Xplorin:
 
 ### 🏠 Home
 <p align="center">
-  <img src="assets/HomePage(2x).png" width="800" />
+  [gambar]('/assets/HomePage(2x).png')
 </p>
 
 ---
