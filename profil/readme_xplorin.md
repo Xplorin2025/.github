@@ -83,33 +83,47 @@ Beberapa halaman utama dalam aplikasi Xplorin:
 
 ## 🖥️ Cuplikan Aplikasi
 
+## 🖥️ Cuplikan Aplikasi
+
 ### 🏠 Home
-![Home Page](assets/HomePage(2x).png)
+<p align="center">
+  <img src="../../assets/HomePage(2x).png" width="800" />
+</p>
 
 ---
 
 ### 🔍 Explore
-![Explore Page](assets/explore.PNG)
+<p align="center">
+  <img src="../../assets/explore.PNG" width="800" />
+</p>
 
 ---
 
 ### ℹ️ About Us
-![About Us](assets/aboutus.PNG)
+<p align="center">
+  <img src="../../assets/aboutus.PNG" width="800" />
+</p>
 
 ---
 
 ### 🤖 AI Chatbot (Ciko)
-![Chatbot](assets/chatbot.PNG)
+<p align="center">
+  <img src="../../assets/chatbot.PNG" width="800" />
+</p>
 
 ---
 
 ### 📸 Food Detection
-![Food Detection](assets/foodgallery.PNG)
+<p align="center">
+  <img src="../../assets/foodgalery.PNG" width="800" />
+</p>
 
 ---
 
-### 🍜 Food Recommendation
-![Restaurant Recommendation](assets/pempek.PNG)
+### 🍜 Restaurant Recommendation
+<p align="center">
+  <img src="../../assets/pempek.PNG" width="800" />
+</p>
 
 ---
 
