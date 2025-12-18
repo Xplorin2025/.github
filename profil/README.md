@@ -111,12 +111,12 @@ Beberapa halaman utama dalam aplikasi Xplorin:
 
 ### 📸 Food Detection
 <p align="center">
-  <img src="../../assets/foodgalery.PNG" width="800" />
+  <img src="../../assets/fooddetection.jpeg" width="800" />
 </p>
 
 ---
 
-### 🍜 Restaurant Recommendation
+### 🍜 Food Recommendation
 <p align="center">
   <img src="../../assets/pempek.PNG" width="800" />
 </p>
