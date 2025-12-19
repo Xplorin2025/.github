@@ -102,7 +102,7 @@ Beberapa halaman utama dalam aplikasi Xplorin:
 
 ### ℹ️ About Us
 <p align="center">
-  <img src="../assets/aboutus.PNG" width="800" />
+  <img src="../../assets/aboutus.PNG" width="800" />
 </p>
 
 ---
