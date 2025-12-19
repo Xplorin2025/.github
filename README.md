@@ -1,7 +1,7 @@
 # 🌏 XPLORIN – Experience Palembang Culinary Origin
 
 <p align="center">
-  <img src="../assets/Logocomponent.png" width="800" />
+  <img src="assets/Logocomponent.png" width="800" />
 </p>
 
 
